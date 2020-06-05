@@ -1,0 +1,48 @@
+QPushButton {
+	background-color: rgb(176,216,230);
+}
+
+QPushButton#pcancel {
+	background-color: rgb(255,0,0);
+}
+
+QPushButton#psum {
+	background-color: rgb(255,255,0);
+}
+
+
+QPushButton#psum {
+	background-color: rgb(255,165,0);
+}
+
+
+QPushButton#pdivide {
+	background-color: rgb(255,165,0);
+}
+
+
+QPushButton#pdeduct {
+	background-color: rgb(255,165,0);
+}
+
+
+QPushButton#pmultiply {
+	background-color: rgb(255,165,0);
+}
+
+
+QPushButton#pequal {
+	background-color: rgb(78,228,78);
+}
+
+QPushButton#ponoff {
+	background-color: rgb(230,0,0);
+}
+
+QPushButton#pbackwards {
+	background-color: rgb(230,0,0);
+}
+
+QPlainTextEdit {
+    background-color:#3a3a3a;color:#EEE;border:4px;border-style:solid;border-color:#999;
+}
